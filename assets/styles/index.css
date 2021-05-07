@@ -1232,6 +1232,18 @@
   }
 }
 
+
+@media (max-width: 850px) {
+  :root {
+    font-size: 75%;
+  }
+  .navbar {
+    font-size: 100%;
+  }
+
+}
+
+
 @media (max-width: 750px) {
   .discover_cards_box_1_child {
     padding: 1rem 1rem;
@@ -1251,17 +1263,6 @@
   }
 }
 
-@media (max-width: 900px) {
-}
-@media (max-width: 850px) {
-  :root {
-    font-size: 75%;
-  }
-  .navbar {
-    font-size: 100%;
-  }
-
-}
 
 @media (max-width: 720px) {
   .free_account_wrapper {
