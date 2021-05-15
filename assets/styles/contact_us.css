@@ -226,7 +226,7 @@
   font-size: 2.1875rem;
   line-height: 47px;
   color: #2f353a;
-  margin-bottom: 1.5rem;
+  /* margin-bottom: 1.5rem; */
 }
 .hero_contact_left_titles p:nth-child(2) {
   font-style: normal;
